@@ -1,0 +1,15 @@
+/home/c-spydo/Projects/TwigaTest/TwigaTest/bin/TwigaTest.dll
+/home/c-spydo/Projects/TwigaTest/TwigaTest/bin/TwigaTest.pdb
+/home/c-spydo/Projects/TwigaTest/TwigaTest/obj/Debug/TwigaTest.csprojAssemblyReference.cache
+/home/c-spydo/Projects/TwigaTest/TwigaTest/obj/Debug/TwigaTest.dll
+/home/c-spydo/Projects/TwigaTest/TwigaTest/obj/Debug/TwigaTest.pdb
+/home/c-spydo/Projects/TwigaTest/TwigaTest/bin/Newtonsoft.Json.dll
+/home/c-spydo/Projects/TwigaTest/TwigaTest/bin/System.IO.dll
+/home/c-spydo/Projects/TwigaTest/TwigaTest/bin/System.Net.Http.dll
+/home/c-spydo/Projects/TwigaTest/TwigaTest/bin/System.Runtime.dll
+/home/c-spydo/Projects/TwigaTest/TwigaTest/bin/System.Security.Cryptography.Algorithms.dll
+/home/c-spydo/Projects/TwigaTest/TwigaTest/bin/System.Security.Cryptography.Encoding.dll
+/home/c-spydo/Projects/TwigaTest/TwigaTest/bin/System.Security.Cryptography.Primitives.dll
+/home/c-spydo/Projects/TwigaTest/TwigaTest/bin/System.Security.Cryptography.X509Certificates.dll
+/home/c-spydo/Projects/TwigaTest/TwigaTest/bin/Newtonsoft.Json.xml
+/home/c-spydo/Projects/TwigaTest/TwigaTest/obj/Debug/TwigaTest.csproj.CopyComplete

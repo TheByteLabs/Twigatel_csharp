@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{D065A4FF-DCDE-4880-9E8D-C2D8F36065E2}|">
+  <MonoDevelop.Ide.ItemProperties.TwigaTest PreferredExecutionTarget="/usr/bin/google-chrome-stable" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TwigaTest/Default.aspx.cs">
+    <Files>
+      <File FileName="TwigaTest/Default.aspx" Line="1" Column="1" />
+      <File FileName="TwigaTest/Default.aspx.cs" Line="13" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TwigaTest" expanded="True">
+            <Node name="TwigaTest" expanded="True">
+              <Node name="Default.aspx" expanded="True">
+                <Node name="Default.aspx.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
